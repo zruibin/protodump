@@ -21,5 +21,6 @@ DerivedData
 
 lua
 luac
+*.dump
 *.o
 *.a
